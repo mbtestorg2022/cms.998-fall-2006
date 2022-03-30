@@ -4,6 +4,7 @@ description: This resource contains Goals and Expectations, Structure and Submis
   Evaluation Criteria.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/cms-998-videogame-theory-and-analysis-fall-2006/fec127fe034fd84da9f00dc555a8ff6d_midterm_essay.pdf
 file_type: application/pdf
+parent_uid: f88ff982-4108-931f-2c36-fedd8da3601b
 resourcetype: Document
 title: midterm_essay.pdf
 uid: fec127fe-034f-d84d-a9f0-0dc555a8ff6d
